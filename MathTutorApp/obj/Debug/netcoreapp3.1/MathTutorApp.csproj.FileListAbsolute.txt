@@ -1,0 +1,11 @@
+C:\Users\ZefiM\source\repos\MathTutorApp\MathTutorApp\obj\Debug\netcoreapp3.1\MathTutorApp.csprojAssemblyReference.cache
+C:\Users\ZefiM\source\repos\MathTutorApp\MathTutorApp\obj\Debug\netcoreapp3.1\MathTutorApp.AssemblyInfoInputs.cache
+C:\Users\ZefiM\source\repos\MathTutorApp\MathTutorApp\obj\Debug\netcoreapp3.1\MathTutorApp.AssemblyInfo.cs
+C:\Users\ZefiM\source\repos\MathTutorApp\MathTutorApp\bin\Debug\netcoreapp3.1\MathTutorApp.exe
+C:\Users\ZefiM\source\repos\MathTutorApp\MathTutorApp\bin\Debug\netcoreapp3.1\MathTutorApp.deps.json
+C:\Users\ZefiM\source\repos\MathTutorApp\MathTutorApp\bin\Debug\netcoreapp3.1\MathTutorApp.runtimeconfig.json
+C:\Users\ZefiM\source\repos\MathTutorApp\MathTutorApp\bin\Debug\netcoreapp3.1\MathTutorApp.runtimeconfig.dev.json
+C:\Users\ZefiM\source\repos\MathTutorApp\MathTutorApp\bin\Debug\netcoreapp3.1\MathTutorApp.dll
+C:\Users\ZefiM\source\repos\MathTutorApp\MathTutorApp\bin\Debug\netcoreapp3.1\MathTutorApp.pdb
+C:\Users\ZefiM\source\repos\MathTutorApp\MathTutorApp\obj\Debug\netcoreapp3.1\MathTutorApp.dll
+C:\Users\ZefiM\source\repos\MathTutorApp\MathTutorApp\obj\Debug\netcoreapp3.1\MathTutorApp.pdb
